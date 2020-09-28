@@ -1,6 +1,6 @@
 version: '3.2'
 
-service:
+services:
   python:
     image: ex21/python:1.0
     build: ./python
